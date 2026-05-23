@@ -1,0 +1,21 @@
+Here's a professional cover letter tailored to the job description:
+
+Dear Hiring Manager,
+
+I am excited to apply for the Software Developer position at [Company Name], where I can leverage my skills in Python development, Docker containerization, and OPC-UA protocol knowledge to drive innovation in industrial automation systems. With 3 years of production experience in building and deploying data-driven applications for industrial manufacturing environments, I am confident that I can make a significant contribution to your team.
+
+As a specialist in Python development, I have a strong foundation in object-oriented programming, decorators, and asynchronous programming. My experience with FastAPI has equipped me with the skills to develop and maintain REST APIs, and I am well-versed in Docker and containerization. I have also worked extensively with OPC-UA protocol, integrating it with industrial devices and systems. My proficiency in Linux/SSH administration and Git version control has enabled me to efficiently manage and deploy applications.
+
+In my current role at Continental India, I have designed, built, and deployed production-grade Python applications integrating with factory systems, including OPC-UA data pipelines for 20+ industrial machines. I have also packaged and deployed Industrial IoT edge applications using Docker containers on Linux edge devices, managing container lifecycles, images, and deployment pipelines via remote SSH to factory floor hardware. My experience in building and shipping ICONICS SCADA dashboard applications and DOPAC integrations has given me a deep understanding of industrial automation systems.
+
+I am impressed by [Company Name]'s commitment to innovation and excellence in industrial automation, and I am excited about the opportunity to collaborate with the hardware teams to integrate IoT sensors and devices. My experience in writing clean, well-documented Python code following OOP principles has earned me a reputation for delivering high-quality solutions. I am confident that my skills and experience make me an ideal fit for this role.
+
+In addition to my technical skills, I have excellent communication and collaboration skills, which have been demonstrated through my experience in conducting structured training sessions for shop-floor operators, engineers, and supervisors on newly deployed applications. I have also represented Continental at global manufacturing sites, conducting on-site deployments, training, and go-live support internationally.
+
+I am particularly drawn to [Company Name] because of its commitment to using technology to drive innovation and efficiency in industrial automation. I am excited about the opportunity to work with a talented team of professionals who share my passion for technology and innovation.
+
+Thank you for considering my application. I would welcome the opportunity to discuss my qualifications further and explain in greater detail why I am the ideal candidate for this role. Please feel free to contact me at +91-9810350598 or harshdubey082001@gmail.com.
+
+Sincerely,
+
+Harsh Dubey
